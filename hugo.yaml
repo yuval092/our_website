@@ -11,6 +11,7 @@ languages:
     weight: 1
 
 params:
+  defaultTheme: "light"
   homeInfoParams:
     Title: היי יפה שלי ♥
     Content: >
